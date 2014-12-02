@@ -1,0 +1,8 @@
+c:\users\nikola\documents\visual studio 2010\Projects\SlagalicaKvadrati\SlagalicaKvadrati\bin\Debug\SlagalicaKvadrati.exe
+c:\users\nikola\documents\visual studio 2010\Projects\SlagalicaKvadrati\SlagalicaKvadrati\bin\Debug\SlagalicaKvadrati.pdb
+c:\users\nikola\documents\visual studio 2010\Projects\SlagalicaKvadrati\SlagalicaKvadrati\obj\x86\Debug\SlagalicaKvadrati.Slagalica.resources
+c:\users\nikola\documents\visual studio 2010\Projects\SlagalicaKvadrati\SlagalicaKvadrati\obj\x86\Debug\SlagalicaKvadrati.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2010\Projects\SlagalicaKvadrati\SlagalicaKvadrati\obj\x86\Debug\SlagalicaKvadrati.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2010\Projects\SlagalicaKvadrati\SlagalicaKvadrati\obj\x86\Debug\SlagalicaKvadrati.exe
+c:\users\nikola\documents\visual studio 2010\Projects\SlagalicaKvadrati\SlagalicaKvadrati\obj\x86\Debug\SlagalicaKvadrati.pdb
+C:\Users\Nikola\Documents\Visual Studio 2010\Projects\SlagalicaKvadrati\SlagalicaKvadrati\obj\x86\Debug\SlagalicaKvadrati.csprojResolveAssemblyReference.cache
