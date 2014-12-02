@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Slagalica</title>
+	<script type="text/javascript">
+		window.requestAnimFrame = (function(){
+			return  window.requestAnimationFrame       ||
+          	window.webkitRequestAnimationFrame ||
+          	window.mozRequestAnimationFrame    ||
+          	function( callback ){
+            window.setTimeout(callback, 1000 / 60);
+          };
+	})();
+
+
+	</script>
+</head>
+<body>
+<canvas id = "canvas" width = "500 px" height = "500 px"  style = "border: 1px solid Black " ></canvas><br/>
+<button onclick="Restart()">Restart</button>
+<p id="paragraf"></p>
+<script src = "Slagalica.js"></script>
+	
+</body>
+</html>
